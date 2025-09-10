@@ -34,6 +34,7 @@ Depends:
 Imports:
     ggplot2 (>= 3.4.2),
     lavaan,
+    OpenMx,
     igraph (>= 2.0.0),
     psych,
     methods,
@@ -62,7 +63,6 @@ Suggests:
     dagitty,
     mice,
     ggraph,
-    OpenMx,
     rmarkdown,
     blavaan,
     bain,
