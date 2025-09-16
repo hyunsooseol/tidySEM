@@ -65,7 +65,6 @@ Suggests:
     ggraph,
     OpenMx,
     rmarkdown,
-    blavaan,
     bain
 VignetteBuilder: 
     knitr
