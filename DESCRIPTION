@@ -48,6 +48,7 @@ Imports:
     nonnest2 (>= 0.5.6)
 Suggests: 
     testthat,
+    blavaan,
     knitr,
     dplyr,
     stringr,
