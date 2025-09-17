@@ -27,7 +27,7 @@ License: GPL (>= 3)
 URL: https://cjvanlissa.github.io/tidySEM/
 BugReports: https://github.com/cjvanlissa/tidySEM/issues
 Depends: R (>= 4.0.0), stats, utils
-Imports: ggplot2 (>= 3.4.2), lavaan, MplusAutomation, igraph
+Imports: ggplot2 (>= 3.4.2), lavaan, igraph
         (>= 2.0.0), psych, methods, gtable, dbscan, RANN, Matrix, bain,
         car, future.apply, progressr, nonnest2 (>= 0.5.6)
 Suggests: testthat, knitr, dplyr, stringr, covr, tidyLPA, poLCA, umx,
